@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.taxcalculator","l":"ChangeTable"},{"p":"com.taxcalculator","l":"Main"},{"p":"com.taxcalculator","l":"TaxCalculator"},{"p":"com.taxcalculator","l":"TaxTable"},{"p":"com.taxcalculator","l":"TaxView"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
