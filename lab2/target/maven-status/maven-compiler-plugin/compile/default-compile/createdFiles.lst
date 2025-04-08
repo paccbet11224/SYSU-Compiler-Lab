@@ -1,0 +1,6 @@
+Agenda\model\User.class
+Agenda\CommandProcessor.class
+Agenda\model\Meeting.class
+Agenda\Main.class
+Agenda\UserManager.class
+Agenda\MeetingManager.class
